@@ -1,0 +1,32 @@
+div {
+  width: 400px;
+  height: 400px;
+
+  border-width: 20px;
+  border-style: solid;
+  border-color: purple;
+  border-spacing: 10px;
+
+  background-image: url(https://ciclovivo.com.br/wp-content/uploads/2021/12/cosmos-flor-1024x683.jpg);
+  text-align: center;
+  box-shadow: inset 8px 4px 20px 4px red;
+  background-size: cover;
+
+  padding: 10px;
+
+  outline-width: 17px;
+  outline-style: double;
+  outline-color: rebeccapurple;
+  margin: auto;
+  margin-top: 50px;
+}
+
+p {
+  padding-top: 100px;
+  text-align: center;
+  justify-content: center;
+  font-style: italic;
+  font-size: 50px;
+  color: yellow;
+  font-weight: bold;
+}
